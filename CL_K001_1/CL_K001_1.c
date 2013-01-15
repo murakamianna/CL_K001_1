@@ -5,6 +5,6 @@
 
 void main (void){
 	int sum;
-	sum = 20+40;
-	printf("20+40=%d\n",sum);
+	sum = 20*40;
+	printf("20*40=%d\n",sum);
 }
